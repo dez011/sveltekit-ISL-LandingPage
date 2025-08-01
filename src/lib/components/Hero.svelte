@@ -5,10 +5,13 @@
 	<div class="hero-overlay bg-opacity-70" />
 	<div class="hero-content text-neutral-content">
 		<div class="-z-[-1] drop-shadow-lg text-center lg:-translate-y-20">
-			<div class="mb-5 text-8xl font-semibold">Svelte</div>
-			<div class="mb-5 max-w-sm">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
+			<div class="mb-5 text-8xl font-semibold">IronSpec Labs</div>
+			<div class="mb-5 max-w-lg">
+				IronSpec delivers precision-built computers and technology solutions backed by the integrity 
+				of a U.S. veteran with years of expertise in software and hardware. Every system is crafted 
+				with the same commitment to reliability, performance, and attention to detail that guided my 
+				service — ensuring businesses, government, and individuals can trust IronSpec to provide tech 
+				that works flawlessly and support that never wavers.
 			</div>
 			<div class="flex gap-4 justify-center">
 				<button class="btn btn-primary transition-color duration-300 text-lg">Learn More</button>
