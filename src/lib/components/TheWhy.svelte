@@ -1,14 +1,15 @@
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">Instant Insights</div>
+		<div class="text-3xl font-bold text-center my-5">Why Agencies Trust IronSpec</div>
 		<div class="text-lg text-center my-5">
-			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint Lorem
-			commodo ea pariatur.
+			IronSpec delivers precision-built systems backed by veteran integrity and rigorous standards.
+      		These pillars define how we work and why agencies can count on us.
 		</div>
 	</div>
 
 	<div class="stats flex flex-col lg:flex-row bg-base-100 shadow-lg">
-		<div class="stat">
+		<!-- <div class="stat">
+			
 			<div class="stat-figure text-primary">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -23,12 +24,13 @@
 					/></svg
 				>
 			</div>
+
 			<div class="stat-title">Total Projects</div>
 			<div class="stat-value text-primary">182</div>
 			<div class="stat-desc">3% more than last month</div>
-		</div>
+		</div> -->
 
-		<div class="stat">
+		<!-- <div class="stat">
 			<div class="stat-figure text-secondary">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -46,9 +48,9 @@
 			<div class="stat-title">Connections</div>
 			<div class="stat-value text-primary-focus">2.6M</div>
 			<div class="stat-desc">21% more than last month</div>
-		</div>
-
-		<div class=" stat lg:hidden xl:stat">
+		</div> -->
+		
+		<!-- <div class=" stat lg:hidden xl:stat">
 			<div class="stat-figure text-secondary">
 				<div class="avatar online w-12">
 					<img
@@ -61,6 +63,6 @@
 			<div class="stat-title">Page Views</div>
 			<div class="stat-value text-secondary">262k</div>
 			<div class="stat-desc">11% more than last month</div>
-		</div>
+		</div> -->
 	</div>
 </div>
